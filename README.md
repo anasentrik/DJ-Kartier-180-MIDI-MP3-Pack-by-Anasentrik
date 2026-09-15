@@ -24,3 +24,4 @@ Here is a batch collection of 180 MP3 audio files along with their corresponding
 ---
 
 *(You can check the included `urls.txt`, `archive.txt`, and `top_shorts.txt` inside the `180-pack` folder for exact video links and original view counts).*
+> **Disclaimer:** Audio files (.mp3) are provided solely for reference and alignment purposes alongside the MIDI files. All original audio rights belong to DJ_Kartier.
